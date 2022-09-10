@@ -32,10 +32,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
--This is a Daily Activity Planner that starts at 0900 and ends at 1700 (9am-5pm).
+-This is a Workday Scheduler that starts at 0900 and ends at 1700 (9am-5pm).
 -It shows the current time and highlights the present hour in RED.
 -The past hours are dulled out and the remaining future hours are highlighted in GREEN.
--The Daily Activity Planner allows you to add any number of tasks and lets you input those tasks to any hour of your choice.
+-The Workday Scheduler allows you to add any number of tasks and lets you input those tasks to any hour of your choice.
 -It saves all your new inputs even when you reload the page.
 
 
